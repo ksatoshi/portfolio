@@ -19,7 +19,6 @@ export default function Home() {
       <div className="flex items-center justify-center">
         A stdent of Future University Hakodate
       </div>
-      <Link href="/detail" className="flex items-center justify-center text-blue-500">Detail</Link>
     </main>
   );
 }
