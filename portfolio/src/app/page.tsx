@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <div className="flex items-center justify-center text-4xl">About: ksatoshi</div>
       <div className="flex items-center justify-center">
-        <Image className="object-cover h-48 w-48" src="https://delivery.ksatoshi.dev/-yzr5pl.webp" alt="ナノブロックグラードンの画像" width={500} height={500}/>
+        <Image className="object-cover h-48 w-48" src="/profile.webp" alt="ナノブロックグラードンの画像" width={500} height={500}/>
       </div>
       <div className="flex items-center justify-center text-3xl">ksatoshi</div>
       <h1 className="flex items-left justify-center">links:</h1>
