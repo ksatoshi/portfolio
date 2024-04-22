@@ -17,7 +17,7 @@ export default function Home() {
       zenn <a href="https://zenn.dev/ksatoshi" className="text-blue-500">https://zenn.dev/ksatoshi</a>
       </div>
       <div className="flex items-center justify-center">
-        A stdent of Future University Hakodate
+        A student of Future University Hakodate
       </div>
     </main>
   );
